@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_221"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/imane/OneDrive/Bureau/all/javaProject/rs2xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imane/OneDrive/Bureau/all/javaProject/itextpdf-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imane/OneDrive/Bureau/all/javaProject/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imane/OneDrive/Bureau/all/javaProject/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
